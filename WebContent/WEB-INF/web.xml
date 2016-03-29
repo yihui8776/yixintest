@@ -4,7 +4,7 @@
   
   <servlet>
      <servlet-name>myFirstServlet</servlet-name>
-     <servlet-class>web.MyFirstServlet</servlet-class>
+     <servlet-class>yixintest.MyFirstServlet</servlet-class>
   </servlet>
   
   <servlet-mapping>
